@@ -1,0 +1,24 @@
+{
+  "name": "humidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.3",
+    "install": "^0.10.2",
+    "json-socket": "^0.3.0",
+    "jsonfile": "^4.0.0",
+    "npm": "^5.5.1",
+    "openweather-apis": "^3.3.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.2",
+    "simple-hl7": "^2.1.0",
+    "simple-ssh": "^1.0.0"
+  }
+}
